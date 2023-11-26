@@ -4,8 +4,10 @@
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
 | 2023 | [ChoralSynth](https://arxiv.org/abs/2311.08350) | [▤](https://zenodo.org/records/10161065) | synthesized dataset of 20 multitrack choral songs |
+| 2021 | [Vocadito](https://arxiv.org/abs/2110.05580) | [▤](https://zenodo.org/records/5557945) | 40 excerpts of solo singing annotated with pitch |
 | 2018 | [VocalSet](https://pseeth.github.io/public/papers/wilkins_seetharaman_ismir18.pdf) | [▤](https://zenodo.org/records/1193957) | 10.1 hours of singers demonstrating 17 vocal techniques on 5 vowels |
 | 2017 | [MAST Melody](http://www2.denizyuret.com/bib/bozkurt/bozkurt2017/cmmr2017_BozkurtBaysalYuret.pdf) | [▤](https://zenodo.org/records/8007358) | 1018 vocal performance assessments of 40 distinct melodies |
+| | []() | [▤]() | |
 
 ## Piano
 | Year | Name | Data | Description | 
