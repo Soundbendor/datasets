@@ -25,7 +25,9 @@
 # Emotion
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
-| 2011 | [DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/doc/tac_special_issue_2011.pdf) | [▤](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/readme.html) | 120 one-minute extracts of music videos annotated arousal, valence, and dominance|
+| 2011 | [DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/doc/tac_special_issue_2011.pdf) | [▤](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/readme.html) | 120 one-minute extracts of music videos annotated arousal, valence, and dominance |
+| 2013 | [EMO-Music](https://dl.acm.org/doi/abs/10.1145/2506364.2506365) | [▤](https://cvml.unige.ch/databases/emoMusic/) | 744 45-second excerpts annotated  |
+| 2015 | [AMG1608](https://ieeexplore.ieee.org/abstract/document/7178058) | [▤](https://amg1608.blogspot.com/) | 1608 30-second excerpts annotated with valence and arousal |
 | 2016 | [DEAM](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0173392) | [▤](https://cvml.unige.ch/databases/DEAM/) | 1802 song excerpts annotated with valence and arousal |
 | 2018 | [PMEmo](https://dl.acm.org/doi/abs/10.1145/3206025.3206037) | [▤](https://github.com/HuiZhangDB/PMEmo) | 794 songs songs annotated with valence and arousal |
 
