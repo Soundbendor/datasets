@@ -1,6 +1,6 @@
 <!-- Reference: https://www.audiocontentanalysis.org/datasets -->
 
-# Singing
+# Voice
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
 | 2018 | [VocalSet](https://pseeth.github.io/public/papers/wilkins_seetharaman_ismir18.pdf) | [▤](https://zenodo.org/records/1193957) | 10.1 hours of singers demonstrating vocal techniques on 5 vowels |
@@ -21,6 +21,13 @@
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
 | 2017 | [Live Orchestral Piano](http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p434.pdf) | [▤](https://qsdfo.github.io/LOP/database.html)| 196 pairs of piano scores and corresponding orchestration |
+
+# Emotion
+| Year | Name | Data | Description | 
+| --- | --- | :---: | --- |
+| 2011 | [DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/doc/tac_special_issue_2011.pdf) | [▤](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/readme.html) | 120 one-minute extracts of music videos annotated arousal, valence, and dominance|
+| 2016 | [DEAM](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0173392) | [▤](https://cvml.unige.ch/databases/DEAM/) | 1802 song excerpts annotated with valence and arousal |
+| 2018 | [PMEmo](https://dl.acm.org/doi/abs/10.1145/3206025.3206037) | [▤](https://github.com/HuiZhangDB/PMEmo) | 794 songs songs annotated with valence and arousal |
 
 
 # Audio Captioning
