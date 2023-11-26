@@ -59,6 +59,8 @@
 ## Captioning
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
+| 2023 | [MusicCaps](https://arxiv.org/abs/2301.11325) | [▤](https://research.google/resources/datasets/musiccaps/) | 5521 examples with text captions |
+| 2023 | [MuLaMCap](https://arxiv.org/pdf/2302.03917.pdf) | [▤](https://google-research.github.io/noise2music/) | 400k music-text pseudolabels |
 | 2023 | [WavCaps](https://arxiv.org/abs/2303.17395) | [▤](https://github.com/XinhaoMei/WavCaps) | 400k audio clips with paired captions |
 | 2023 | [Song Describer Dataset](https://arxiv.org/abs/2311.10057) | [▤](https://zenodo.org/records/10072001) | 1.1k captions for 706 recordings |
 | | []() | [▤]() | |
