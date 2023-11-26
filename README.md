@@ -12,6 +12,11 @@
 | 2018 | [MAESTRO](https://arxiv.org/abs/1810.12247) | [▤](https://magenta.tensorflow.org/datasets/maestro) | 200 hours of solo piano performances with aligned audio and MIDI |
 | 2021 | [GiantMIDI Piano](https://arxiv.org/abs/2010.07061) | [▤](https://github.com/bytedance/GiantMIDI-Piano/tree/master) | 1237 hours of transcribed piano solos in MIDI |
 
+# Instruments
+| Year | Name | Data | Description | 
+| --- | --- | :---: | --- |
+| 2017 | [NSynth](https://proceedings.mlr.press/v70/engel17a.html) | [▤](https://magenta.tensorflow.org/nsynth) | 300k+ annotated musical notes from 1000+ instruments |
+
 # Orchestration
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
