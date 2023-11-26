@@ -27,6 +27,7 @@
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
 | 2018 | [PMEmo](https://dl.acm.org/doi/abs/10.1145/3206025.3206037) | [▤](https://github.com/HuiZhangDB/PMEmo) | 794 45-sec songs excerpts annotated with valence and arousal |
+| 2018 | [Deezer](https://arxiv.org/abs/1809.07276) | [▤](https://github.com/deezer/deezer_mood_detection_dataset) | 18000 songs with synthetic valence and arousal (no audio) |
 | 2016 | [DEAM](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0173392) | [▤](https://cvml.unige.ch/databases/DEAM/) | 1802 30-sec song excerpts annotated with valence and arousal |
 | 2015 | [AMG1608](https://ieeexplore.ieee.org/abstract/document/7178058) | [▤](https://amg1608.blogspot.com/) | 1608 30-sec excerpts annotated with valence and arousal |
 | 2013 | [EMO-Music](https://dl.acm.org/doi/abs/10.1145/2506364.2506365) | [▤](https://cvml.unige.ch/databases/emoMusic/) | 744 45-sec excerpts annotated  |
