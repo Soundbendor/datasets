@@ -4,6 +4,11 @@
 | 2018 | [VocalSet](https://pseeth.github.io/public/papers/wilkins_seetharaman_ismir18.pdf) | [▤](https://zenodo.org/records/1193957) | 10.1 hours of monophonic recorded audio of singers demonstrating vocal techniques on 5 vowels |
 | 2023 | [ChoralSynth](https://arxiv.org/abs/2311.08350) | [▤](https://zenodo.org/records/10161065) | synthesized dataset of 20 multitrack choral songs |
 
+# Piano
+| Year | Name | Data | Description | 
+| --- | --- | :---: | --- |
+| 2018 | [MAESTRO](https://arxiv.org/abs/1810.12247) | [▤](https://magenta.tensorflow.org/datasets/maestro) | 200 hours of solo piano performances with aligned audio and MIDI |
+| 2021 | [GiantMIDI Piano](https://arxiv.org/abs/2010.07061) | [▤](https://github.com/bytedance/GiantMIDI-Piano/tree/master) | 1237 hours of transcribed piano solos in MIDI |
 
 
 # Orchestration
