@@ -19,12 +19,13 @@
 | --- | --- | :---: | --- |
 | 2017 | [NSynth](https://proceedings.mlr.press/v70/engel17a.html) | [▤](https://magenta.tensorflow.org/nsynth) | 300k+ annotated musical notes from 1000+ instruments |
 | | []() | [▤]() | |
+| | []() | [▤]() | |
 
 ## Orchestration
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
 | 2017 | [Live Orchestral Piano](http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p434.pdf) | [▤](https://qsdfo.github.io/LOP/database.html)| 196 pairs of piano scores and corresponding orchestration |
-| | []() | [▤]() | |
+| 2003 | [RWC](https://jhir.library.jhu.edu/items/7c3a3fd3-9083-42ad-9b00-3bfc5a2ff8a4) | [▤](https://staff.aist.go.jp/m.goto/RWC-MDB/) | 50 musical instruments (paid) |
 
 ## Emotion
 | Year | Name | Data | Description | 
@@ -42,10 +43,16 @@
 ## Genre
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
+| 2021 | [MTG-Jamendo](https://repositori.upf.edu/handle/10230/42015) | [▤](https://mtg.github.io/mtg-jamendo-dataset/) | 55k songs annotated with 87 genres |
 | 2019 | [AcousticBrainz](https://repositori.upf.edu/handle/10230/41985) | [▤](https://mtg.github.io/acousticbrainz-genre-dataset/) | audio features for 2M+ songs with genre annotations |
 | 2017 | [FMA](https://arxiv.org/abs/1612.01840) | [▤](https://github.com/mdeff/fma) | 106,574 tracks annotated with 161 genres|
+| 2011 | [MSD](https://academiccommons.columbia.edu/doi/10.7916/D8NZ8J07) | [▤](http://millionsongdataset.com/) | extracted features for 1M song (no audio) |
 | | []() | [▤]() | |
 
+## Lyrics
+| Year | Name | Data | Description | 
+| --- | --- | :---: | --- |
+| | []() | [▤]() | |
 
 ## Captioning
 | Year | Name | Data | Description | 
