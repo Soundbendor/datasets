@@ -56,6 +56,12 @@
 | --- | --- | :---: | --- |
 | | []() | [▤]() | |
 
+## Playlist
+| Year | Name | Data | Description | 
+| --- | --- | :---: | --- |
+| 2020 | [Spotify 1M Playlist](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge) | [▤](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files) | 1M playlists with title and track list |
+| | []() | [▤]() | |
+
 ## Captioning
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
