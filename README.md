@@ -52,6 +52,11 @@
 | 2011 | [MSD](https://academiccommons.columbia.edu/doi/10.7916/D8NZ8J07) | [▤](http://millionsongdataset.com/) | extracted features for 1M song (no audio) |
 | | []() | [▤]() | |
 
+## Score
+| Year | Name | Data | Description | 
+| --- | --- | :---: | --- |
+| 2016 | [MusicNet](https://arxiv.org/abs/2110.04331) | [▤](https://zenodo.org/records/5120004) | 330 classical recording with 1M labels for instrument, timing, and position |
+
 ## Lyrics
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
