@@ -62,6 +62,11 @@
 | 2011 | [MSD](https://academiccommons.columbia.edu/doi/10.7916/D8NZ8J07) | [▤](http://millionsongdataset.com/) | extracted features for 1M song (no audio) |
 | | []() | [▤]() | |
 
+## Tags
+| Year | Name | Data | Description | 
+| --- | --- | :---: | --- |
+| 2013 | [MagnaTagATune](https://ismir2009.ismir.net/proceedings/OS5-5.pdf) | [▤](https://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset) | Tags for audio clips|
+
 ## Style
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
