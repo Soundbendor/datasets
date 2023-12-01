@@ -30,6 +30,16 @@
 | 2017 | [Live Orchestral Piano](http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p434.pdf) | [▤](https://qsdfo.github.io/LOP/database.html)| 196 pairs of piano scores and corresponding orchestration |
 | | []() | [▤]() | |
 
+## Score
+| Year | Name | Data | Description | 
+| --- | --- | :---: | --- |
+| 2016 | [MusicNet](https://arxiv.org/abs/2110.04331) | [▤](https://zenodo.org/records/5120004) | 330 classical recording with 1M labels for instrument, timing, and position |
+
+## Lyrics
+| Year | Name | Data | Description | 
+| --- | --- | :---: | --- |
+| | []() | [▤]() | |
+
 ## Emotion
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
@@ -52,15 +62,10 @@
 | 2011 | [MSD](https://academiccommons.columbia.edu/doi/10.7916/D8NZ8J07) | [▤](http://millionsongdataset.com/) | extracted features for 1M song (no audio) |
 | | []() | [▤]() | |
 
-## Score
+## Style
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
-| 2016 | [MusicNet](https://arxiv.org/abs/2110.04331) | [▤](https://zenodo.org/records/5120004) | 330 classical recording with 1M labels for instrument, timing, and position |
-
-## Lyrics
-| Year | Name | Data | Description | 
-| --- | --- | :---: | --- |
-| | []() | [▤]() | |
+| 2018 | [Cross-Era Dataset](https://journals.sagepub.com/doi/10.1177/1029864918757595) | [▤](https://www.audiolabs-erlangen.de/resources/MIR/cross-era#ref) | Metadata for 2000 classical pieces balanced by era |
 
 ## Playlist
 | Year | Name | Data | Description | 
