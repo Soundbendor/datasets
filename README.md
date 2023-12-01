@@ -65,7 +65,7 @@
 ## Tags
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
-| 2013 | [MagnaTagATune](https://ismir2009.ismir.net/proceedings/OS5-5.pdf) | [▤](https://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset) | Tags for audio clips|
+| 2013 | [MagnaTagATune](https://ismir2009.ismir.net/proceedings/OS5-5.pdf) | [▤](https://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset) | Tags for 31k+ audio clips|
 
 ## Style
 | Year | Name | Data | Description | 
