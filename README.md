@@ -17,6 +17,12 @@
 | 2018 | [MAESTRO](https://arxiv.org/abs/1810.12247) | [▤](https://magenta.tensorflow.org/datasets/maestro) | 200 hours of solo piano performances with aligned audio and MIDI |
 | | []() | [▤]() | |
 
+## Strings
+| Year | Name | Data | Description | 
+| --- | --- | :---: | --- |
+| 2023 | [Virtuoso Strings](https://ismir2023program.ismir.net/lbd_312.html) | [▤](https://github.com/arme-project/virtuoso-strings) | recordings of strings (1-4 players) with onset annotations |
+| | []() | [▤]() | |
+
 ## Instruments
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
