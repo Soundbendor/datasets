@@ -23,6 +23,12 @@
 | 2023 | [Virtuoso Strings](https://ismir2023program.ismir.net/lbd_312.html) | [▤](https://github.com/arme-project/virtuoso-strings) | recordings of strings (1-4 players) with onset annotations |
 | | []() | [▤]() | |
 
+## Misc. Ensemble
+| Year | Name | Data | Description | 
+| --- | --- | :---: | --- |
+| 2022 | [CocoChorales](https://arxiv.org/abs/2209.14458v1) | [▤](https://magenta.tensorflow.org/datasets/cocochorales#download) | recordings/MIDI/annotations of Bach-ish generated chorales for different SATB ensembles |
+| | []() | [▤]() | |
+
 ## Instruments
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
