@@ -17,6 +17,12 @@
 | 2018 | [MAESTRO](https://arxiv.org/abs/1810.12247) | [▤](https://magenta.tensorflow.org/datasets/maestro) | 200 hours of solo piano performances with aligned audio and MIDI |
 | | []() | [▤]() | |
 
+## Guitar
+| Year | Name | Data | Description | 
+| --- | --- | :---: | --- |
+| 2018 | [GuitarSet](https://ismir2018.ismir.net/doc/pdfs/188_Paper.pdf) | [▤](https://zenodo.org/records/3371780) | acoustic guitar recordings with MIDI (360 samples, 30 seconds each) |
+| | []() | [▤]() | |
+
 ## Strings
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
