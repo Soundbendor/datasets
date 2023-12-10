@@ -22,6 +22,7 @@
 | --- | --- | :---: | --- |
 | 2017 | [NSynth](https://proceedings.mlr.press/v70/engel17a.html) | [▤](https://magenta.tensorflow.org/nsynth) | 300k+ annotated musical notes from 1000+ instruments |
 | 2003 | [RWC](https://jhir.library.jhu.edu/items/7c3a3fd3-9083-42ad-9b00-3bfc5a2ff8a4) | [▤](https://staff.aist.go.jp/m.goto/RWC-MDB/) | 50 musical instruments (paid) |
+| 2016 | [GOOD-SOUNDS](https://repositori.upf.edu/handle/10230/32131) | [▤](https://www.upf.edu/web/mtg/good-sounds) | single notes and scales of 12 instruments by 15 musicians | 
 | | []() | [▤]() | |
 
 ## Orchestration
