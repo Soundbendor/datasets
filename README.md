@@ -40,6 +40,7 @@
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
 | 2020(?) | [Orchidea multiphonics](https://www.tandfonline.com/doi/full/10.1080/09298215.2022.2150650?fbclid=IwAR3L8Mvuu8YCgbKt6vkmKalChuyioyB2-nqQtMAcGk-tf4C7riMCzTG1-dQ) | [▤](http://www.orch-idea.org/datasets/) | winds multiphonics (goes to Orchidea page)|
+| 2019 | [CFBdataset](https://qmro.qmul.ac.uk/xmlui/handle/123456789/59179) | [▤](https://zenodo.org/records/5744336) | Chinese bamboo flute |
 | | []() | [▤]() | |
 
 ## Percussion
