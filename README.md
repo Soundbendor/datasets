@@ -27,6 +27,7 @@
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
 | 2023 | [Virtuoso Strings](https://ismir2023program.ismir.net/lbd_312.html) | [▤](https://github.com/arme-project/virtuoso-strings) | recordings of strings (1-4 players) with onset annotations |
+| 2020(?) | [Orchidea viola da gamba](https://www.tandfonline.com/doi/full/10.1080/09298215.2022.2150650?fbclid=IwAR3L8Mvuu8YCgbKt6vkmKalChuyioyB2-nqQtMAcGk-tf4C7riMCzTG1-dQ) | [▤](http://www.orch-idea.org/datasets/) | viola da gamba (goes to Orchidea page)|
 | | []() | [▤]() | |
 
 ## Misc. Ensemble
@@ -35,12 +36,26 @@
 | 2022 | [CocoChorales](https://arxiv.org/abs/2209.14458v1) | [▤](https://magenta.tensorflow.org/datasets/cocochorales#download) | recordings/MIDI/annotations of Bach-ish generated chorales for different SATB ensembles |
 | | []() | [▤]() | |
 
+## Winds
+| Year | Name | Data | Description | 
+| --- | --- | :---: | --- |
+| 2020(?) | [Orchidea multiphonics](https://www.tandfonline.com/doi/full/10.1080/09298215.2022.2150650?fbclid=IwAR3L8Mvuu8YCgbKt6vkmKalChuyioyB2-nqQtMAcGk-tf4C7riMCzTG1-dQ) | [▤](http://www.orch-idea.org/datasets/) | winds multiphonics (goes to Orchidea page)|
+| | []() | [▤]() | |
+
+## Percussion
+| Year | Name | Data | Description | 
+| --- | --- | :---: | --- |
+| 2020(?) | [Orchidea tam tam](https://www.tandfonline.com/doi/full/10.1080/09298215.2022.2150650?fbclid=IwAR3L8Mvuu8YCgbKt6vkmKalChuyioyB2-nqQtMAcGk-tf4C7riMCzTG1-dQ) | [▤](http://www.orch-idea.org/datasets/) | tam tam with different playing styles (goes to Orchidea page)|
+| | []() | [▤]() | |
+
 ## Instruments
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
 | 2017 | [NSynth](https://proceedings.mlr.press/v70/engel17a.html) | [▤](https://magenta.tensorflow.org/nsynth) | 300k+ annotated musical notes from 1000+ instruments |
 | 2003 | [RWC](https://jhir.library.jhu.edu/items/7c3a3fd3-9083-42ad-9b00-3bfc5a2ff8a4) | [▤](https://staff.aist.go.jp/m.goto/RWC-MDB/) | 50 musical instruments (paid) |
 | 2016 | [GOOD-SOUNDS](https://repositori.upf.edu/handle/10230/32131) | [▤](https://www.upf.edu/web/mtg/good-sounds) | single notes and scales of 12 instruments by 15 musicians | 
+| 2020 | [OrchideaSOL](https://www.tandfonline.com/doi/full/10.1080/09298215.2022.2150650?fbclid=IwAR3L8Mvuu8YCgbKt6vkmKalChuyioyB2-nqQtMAcGk-tf4C7riMCzTG1-dQ) | [▤](https://zenodo.org/record/3686252#.XnFmCy2h1IU%22) | tiny and medium versions of SOL orchestral instruments collection (needs Ircam Form subscription)|
+| 2020 | [FullSOL (Paid)](https://www.tandfonline.com/doi/full/10.1080/09298215.2022.2150650?fbclid=IwAR3L8Mvuu8YCgbKt6vkmKalChuyioyB2-nqQtMAcGk-tf4C7riMCzTG1-dQ) | [▤](https://forum.ircam.fr/projects/detail/fullsol/) | big of SOL orchestral instruments collection (needs Premium Ircam Form subscription)|
 | | []() | [▤]() | |
 
 ## Orchestration
