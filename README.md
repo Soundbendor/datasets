@@ -101,10 +101,20 @@
 | 2022 | [ComMU](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fff3ba5059aeeb88c324b6ba9b298166-Abstract-Datasets_and_Benchmarks.html) | [▤](https://pozalabs.github.io/ComMU/) | professionally-composed MIDI sequences with metadata (including genre) |
 | | []() | [▤]() | |
 
+## Form/Structure
+| Year | Name | Data | Description | 
+| --- | --- | :---: | --- |
+| 2011 | [SALAMI](https://archives.ismir.net/ismir2011/paper/000099.pdf) | [▤](https://github.com/DDMAL/salami-data-public) | 2400 structure annotations for music of various genres (1400 recordings, must fetch manually) |
+| 2019 | [Harmonix](https://archives.ismir.net/ismir2019/paper/000068.pdf) | [▤](https://github.com/urinieto/harmonixset) | beat and structure annocations for 912 Western pop songs (audio in mel spectrograms) |
+| 2009 | [Isoponics](https://ismir2009.ismir.net/proceedings/LBD-18.pdf) | [▤](http://isophonics.net/datasets/) | beat/meter/key/chord/segmentation analysis for various popular artists (audio not included) |
+| | []() | [▤]() | |
+
+
 ## Tags
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
 | 2013 | [MagnaTagATune](https://ismir2009.ismir.net/proceedings/OS5-5.pdf) | [▤](https://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset) | Tags for 31k+ audio clips|
+| | []() | [▤]() | |
 
 ## Style
 | Year | Name | Data | Description | 
