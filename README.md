@@ -9,7 +9,7 @@
 | 2018 | [DAMP-MVP]() | [▤](https://zenodo.org/records/2747436) | recordings of sung karaoke tracks, lyrics text files, and metadata |
 | 2017 | [MAST Melody](http://www2.denizyuret.com/bib/bozkurt/bozkurt2017/cmmr2017_BozkurtBaysalYuret.pdf) | [▤](https://zenodo.org/records/8007358) | 1018 vocal performance assessments of 40 distinct melodies |
 | 2021 | [Schubert Winterreise Dataset](https://dl.acm.org/doi/fullHtml/10.1145/3429743) | [▤](https://zenodo.org/records/4431535) | 9 recordings (only 2 included) of Winterreise with scores and annotations |
-|2022 | [M4Singer](https://openreview.net/pdf?id=qiDmAaG6mP) | [▤](https://github.com/M4Singer/M4Singer) | 20 singers covering 700 pop songs in Mandarin with annotated scords | 
+|2022 | [M4Singer](https://openreview.net/pdf?id=qiDmAaG6mP) | [▤](https://github.com/M4Singer/M4Singer) | 20 singers covering 700 pop songs in Mandarin with annotated scores | 
 | | []() | [▤]() | |
 
 ## Piano
