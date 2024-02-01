@@ -106,7 +106,7 @@
 | --- | --- | :---: | --- |
 | 2011 | [SALAMI](https://archives.ismir.net/ismir2011/paper/000099.pdf) | [▤](https://github.com/DDMAL/salami-data-public) | 2400 structure annotations for music of various genres (1400 recordings, must fetch manually) |
 | 2019 | [Harmonix](https://archives.ismir.net/ismir2019/paper/000068.pdf) | [▤](https://github.com/urinieto/harmonixset) | beat and structure annocations for 912 Western pop songs (audio in mel spectrograms) |
-| 2009 | [Isoponics](https://ismir2009.ismir.net/proceedings/LBD-18.pdf) | [▤](http://isophonics.net/datasets/) | beat/meter/key/chord/segmentation analysis for various popular artists (audio not included) |
+| 2009 | [Isophonics](https://ismir2009.ismir.net/proceedings/LBD-18.pdf) | [▤](http://isophonics.net/datasets/) | beat/meter/key/chord/segmentation analysis for various popular artists (audio not included) |
 | | []() | [▤]() | |
 
 
